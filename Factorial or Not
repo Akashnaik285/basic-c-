@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+int main(){
+int fact, n , i;
+cin>>fact;
+cin>>n;
+if(fact%n==0)
+cout<<"yes";
+else
+cout<<"No";
+return 0;
+}
+
